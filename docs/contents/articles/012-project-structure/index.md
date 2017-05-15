@@ -9,7 +9,7 @@ template: article.jade
 The directory structure of this template is as follows:
 
 ```
-ng2-admin/
+os-admin/
    ├──e2e/
    │   ├──tsconfig.e2e.json             * typescript config that protractor use for e2e tests
    │  

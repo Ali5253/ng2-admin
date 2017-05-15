@@ -1,9 +1,8 @@
 {
-  "baseUrl": "/ng2-admin/",
+  "baseUrl": "/os-admin/",
   "locals": {
     "url": "http://localhost:8080",
-    "name": "ng2-admin blog",
-    "owner": "Akveo",
+    "name": "os-admin blog",
     "description": ""
   },
   "plugins": [
